@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1021367916314",
+    "firebase_url": "https://farmi-81503-default-rtdb.firebaseio.com",
+    "project_id": "farmi-81503",
+    "storage_bucket": "farmi-81503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021367916314:android:71b586b9ecd0bb2de43ea3",
+        "android_client_info": {
+          "package_name": "com.example.farmi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSjTuAvpVj-va2e7-wGzu4IRuMNHSmL5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

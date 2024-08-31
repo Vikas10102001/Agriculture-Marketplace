@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Farmi" parent="android:Theme.Material.Light.NoActionBar" />
+<!--    <style name="SplashScreenTheme" parent="Theme.SplashScreen">-->
+<!--        <item name="windowSplashScreenBackground">@color/white</item>-->
+<!--&lt;!&ndash;        <item name="windowSplashScreenIconBackgroundColor">@android:color/white</item>&ndash;&gt;-->
+<!--        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>-->
+<!--&lt;!&ndash;        <item name="android:windowSplashScreenAnimationDuration">1000</item>&ndash;&gt;-->
+<!--        <item name="postSplashScreenTheme">@style/Theme.Farmi</item>-->
+<!--    </style>-->
+</resources>
